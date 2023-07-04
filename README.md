@@ -1,2 +1,2 @@
-# Guess_Donut_Price
+# Guess_Dounut_Price
 Google colabで作成しため適宜ディレクトリを調整することを忘れないように
